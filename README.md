@@ -1,4 +1,4 @@
-# 🛡️ Security Headers Checker
+# 🛡️ CspCheckr
 
 <div align="center">
 
