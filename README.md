@@ -9,7 +9,7 @@
 
 A modern, enterprise-grade security headers analyzer with smart demo data simulation.
 
-[Live Demo](https://cspcheckr.netlify.app/) • [Report Bug](https://github.com/abelhamuda/cspcheckr/issues) • [Request Feature](https://github.com/abelhamuda/cspcheckr/issues)
+[Live Demo](https://cspchecker.netlify.app/) • [Report Bug](https://github.com/abelhamuda/cspcheckr/issues) • [Request Feature](https://github.com/abelhamuda/cspcheckr/issues)
 
 ![Dashboard Preview](https://via.placeholder.com/800x400/000000/DC2626?text=Security+Headers+Checker+-+Modern+Security+Analysis)
 
