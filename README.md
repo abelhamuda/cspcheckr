@@ -9,7 +9,7 @@
 
 A modern, enterprise-grade security headers analyzer with smart demo data simulation.
 
-[Live Demo](#) • [Report Bug](https://github.com/yourusername/security-headers-checker/issues) • [Request Feature](https://github.com/yourusername/security-headers-checker/issues)
+[Live Demo](https://cspcheckr.netlify.app/) • [Report Bug](https://github.com/abelhamuda/cspcheckr/issues) • [Request Feature](https://github.com/abelhamuda/cspcheckr/issues)
 
 ![Dashboard Preview](https://via.placeholder.com/800x400/000000/DC2626?text=Security+Headers+Checker+-+Modern+Security+Analysis)
 
@@ -48,8 +48,8 @@ A modern, enterprise-grade security headers analyzer with smart demo data simula
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/security-headers-checker.git
-cd security-headers-checker
+git clone https://github.com/abelhamuda/cspcheckr.git
+cd cspcheckr
 ```
 
 2. **Install dependencies**
@@ -237,6 +237,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Built with ❤️ using React, Vite, and Tailwind CSS
 
-[Report Bug](https://github.com/yourusername/security-headers-checker/issues) • [Request Feature](https://github.com/yourusername/security-headers-checker/issues) • [Contributing](#-contributing)
+[Report Bug](https://github.com/abelhamuda/cspcheckr/issues) • [Request Feature](https://github.com/abelhamuda/cspcheckr/issues) • [Contributing](#-contributing)
 
 </div>
